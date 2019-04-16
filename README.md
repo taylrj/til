@@ -10,7 +10,7 @@ smart people at [Hashrocket](http://hashrocket.com/).
 For a steady stream of TILs from a variety of rocketeers, checkout
 [til.hashrocket.com](https://til.hashrocket.com/).
 
-_798 TILs and counting..._
+_806 TILs and counting..._
 
 ---
 
@@ -113,6 +113,7 @@ _798 TILs and counting..._
 - [Path Of The Packets](devops/path-of-the-packets.md)
 - [Push Non-master Branch To Heroku](devops/push-non-master-branch-to-heroku.md)
 - [Reload The nginx Configuration](devops/reload-the-nginx-configuration.md)
+- [Resolve The Public IP Of A URL](devops/resolve-the-public-ip-of-a-url.md)
 - [Running Out Of inode Space](devops/running-out-of-inode-space.md)
 - [Wipe A Heroku Postgres Database](devops/wipe-a-heroku-postgres-database.md)
 
@@ -147,6 +148,7 @@ _798 TILs and counting..._
 - [Match On A Map In A With Construct](elixir/match-on-a-map-in-a-with-construct.md)
 - [Passing Around And Using Modules](elixir/passing-around-and-using-modules.md)
 - [Pattern Matching In Anonymous Functions](elixir/pattern-matching-in-anonymous-functions.md)
+- [Pipe Into A Case Statement](elixir/pipe-into-a-case-statement.md)
 - [Quitting IEx](elixir/quitting-iex.md)
 - [Range Into List Using Comprehensions](elixir/range-into-list-using-comprehensions.md)
 - [Refer To A Module Within Itself](elixir/refer-to-a-module-within-itself.md)
@@ -326,6 +328,7 @@ _798 TILs and counting..._
 - [Check Ubuntu Version](linux/check-ubuntu-version.md)
 - [Configure Your Server Timezone](linux/configure-your-server-timezone.md)
 - [List The Statuses Of All Upstart Jobs](linux/list-the-statuses-of-all-upstart-jobs.md)
+- [Show Current System Time And Settings](linux/show-current-system-time-and-settings.md)
 - [Upgrading Ubuntu](linux/upgrading-ubuntu.md)
 
 ### Mac
@@ -488,10 +491,12 @@ _798 TILs and counting..._
 - [Custom Validation Message](rails/custom-validation-message.md)
 - [Delete Paranoid Records](rails/delete-paranoid-records.md)
 - [Demodulize A Class Name](rails/demodulize-a-class-name.md)
+- [Disambiguate Where In A Joined Relation](rails/disambiguate-where-in-a-joined-relation.md)
 - [Generating And Executing SQL](rails/generating-and-executing-sql.md)
 - [Hash Slicing](rails/hash-slicing.md)
 - [Ignore Poltergeist JavaScript Errors](rails/ignore-poltergeist-javascript-errors.md)
 - [List The Enqueued Jobs](rails/list-the-enqueued-jobs.md)
+- [Make ActionMailer Synchronous In Test](rails/make-action-mailer-synchronous-in-test.md)
 - [Mark For Destruction](rails/mark-for-destruction.md)
 - [Migrating Up Down Up](rails/migrating-up-down-up.md)
 - [Params Includes Submission Button Info](rails/params-includes-submission-button-info.md)
@@ -611,6 +616,7 @@ _798 TILs and counting..._
 - [Create Listing Of All Middleman Pages](ruby/create-listing-of-all-middleman-pages.md)
 - [Create Thumbnail Image For A PDF](ruby/create-thumbnail-image-for-a-pdf.md)
 - [Defaulting To Frozen String Literals](ruby/defaulting-to-frozen-string-literals.md)
+- [Define A Custom RSpec Matcher](ruby/define-a-custom-rspec-matcher.md)
 - [Destructuring Arrays In Blocks](ruby/destructuring-arrays-in-blocks.md)
 - [Disassemble Some Codes](ruby/disassemble-some-codes.md)
 - [Double Splat To Merge Hashes](ruby/double-splat-to-merge-hashes.md)
@@ -746,6 +752,7 @@ _798 TILs and counting..._
 - [Search History](unix/search-history.md)
 - [Search Man Page Descriptions](unix/search-man-page-descriptions.md)
 - [Securely Remove Files](unix/securely-remove-files.md)
+- [Show A File Preview When Searching With FZF](unix/show-a-file-preview-when-searching-with-fzf.md)
 - [Show Disk Usage For The Current Directory](unix/show-disk-usage-for-the-current-directory.md)
 - [Show The Size Of Everything In A Directory](unix/show-the-size-of-everything-in-a-directory.md)
 - [SSH Escape Sequences](unix/ssh-escape-sequences.md)
@@ -787,6 +794,7 @@ _798 TILs and counting..._
 - [Close the Current Buffer](vim/close-the-current-buffer.md)
 - [Coerce The Current Filetype](vim/coerce-the-current-filetype.md)
 - [Coercing Casing With vim-abolish](vim/coercing-casing-with-vim-abolish.md)
+- [Configure FZF To Use fd For File Finding](vim/configure-fzf-to-use-fd-for-file-finding.md)
 - [Count the Number of Matches](vim/count-the-number-of-matches.md)
 - [Create A New Directory In netrw](vim/create-a-new-directory-in-netrw.md)
 - [Create A New File In A New Directory](vim/create-a-new-file-in-a-new-directory.md)
